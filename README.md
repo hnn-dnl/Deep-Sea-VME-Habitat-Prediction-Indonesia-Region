@@ -21,10 +21,8 @@ Six machine learning models are trained, evaluated, and combined into an ensembl
 
 ## Output
 Run the notebook to get `vme_prediction_map.html`. 
-Open in any browser to view the interactive VME prediction map.
-Google Drive link to download VME prediction map .html output is also available [here]([https://drive.google.com/your-link-here](https://drive.google.com/file/d/1FnBgrdCffGcGafe8_Bkr8qysgEQV2KTV/view?usp=sharing))
-
-An interactive map (`vme_prediction_map.html`) is included in this repository. Download it and open in any browser. Hover over any point on map to see per-model VME probability, overall probability and certainty score.
+Open in any browser to view the interactive VME prediction map. Hover over any point on map to see per-model VME probability, overall probability and certainty score.
+Google Drive link to download VME prediction map .html output is also available [here](https://drive.google.com/file/d/1FnBgrdCffGcGafe8_Bkr8qysgEQV2KTV/view?usp=sharing)
 
 ## Requirements
 Open in prompt and run:
