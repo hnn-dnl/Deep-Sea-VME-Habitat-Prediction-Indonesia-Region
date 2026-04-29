@@ -29,7 +29,8 @@ Google Drive link to download VME prediction map .html output is also available 
 ## Requirements
 Open in prompt and run:
 ```bash
-pip install -r requirements.txt
+conda install -c conda-forge netcdf4 dask scikit-learn
+pip install pandas numpy xarray pygam xgboost elapid plotly pyobis requests
 ```
 
 ## Data
