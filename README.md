@@ -6,7 +6,7 @@ Predicting the likelihood of **Vulnerable Marine Ecosystem (VME)** indicator spe
 
 VMEs are groups of species, communities or habitats that may be vulnerable to impacts from fishing activities. The vulnerability of an ecosystem is related to the vulnerability of its population, communities or habitats.
 
-An indicator species is a species whose presence, absence, or abundance reflects specific environmental conditions or ecosystem characteristics. In marine ecology, they act as biological “signals” of certain habitat types.
+An indicator species is a species whose presence, absence, or abundance reflects specific environmental conditions or ecosystem characteristics. In marine ecology, they act as biological signs of certain habitat types.
 
 When indicator species are observed in a location, their presence suggests that the underlying habitat conditions suitable for VMEs may exist there. However, biodiversity data is harder to find compared to environmental data, so by analysing the environmental data in places of indicator species sightings, VMEs can be predicted in locations with similar environmental data.
 
