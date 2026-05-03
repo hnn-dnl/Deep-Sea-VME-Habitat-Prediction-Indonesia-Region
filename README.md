@@ -1,4 +1,4 @@
-# Indonesia Deep-Sea VME Prediction with Species Distribution Model (SDM)
+# Species Distribution Modeling of Deep-Sea Vulnerable Marine Ecosystems in Indonesia
 
 Predicting the likelihood of **Vulnerable Marine Ecosystem (VME)** indicator species across Indonesian deep-sea regions (>200 m depth) using species distribution modelling and machine learning.
 
